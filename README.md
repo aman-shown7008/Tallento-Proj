@@ -34,18 +34,6 @@ The app is responsive, uses local assets, and is easy to maintain.
 
 ---
 
-## 📂 Project Structure
-project-root/
-│── public/ # Static files (images, favicon, etc.)
-│── src/ # Application source
-│ ├── components/ # Reusable components
-│ ├── pages/ # Next.js pages (routes)
-│ ├── styles/ # CSS styles
-│── package.json # Dependencies & scripts
-│── README.md # Documentation
-
----
-
 
 ---
 
@@ -61,3 +49,6 @@ project-root/
 npm run build
 npm run start
 
+
+
+## 📂 Project Structure
