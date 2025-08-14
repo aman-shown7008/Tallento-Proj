@@ -43,11 +43,11 @@ export default function Header() {
             className="cta-avatar"
             style={{ display: "flex", alignItems: "center", gap: "12px" }}
           >
-            <button className="cta-btn">
+            <button className="cta-btn cta-laptop">
               <Plus size={16} />
               <span>Post a Job</span>
             </button>
-            <div className="avatar">
+            <div className="avatar avatar-mobile">
               <Image src={img} alt="Profile" width={40} height={40} className="first-img"/>
             </div>
           </div>
